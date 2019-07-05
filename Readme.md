@@ -2,6 +2,9 @@
 다운로드 후 명령창에 'yarn' 입력. (노드 모듈 다운) 
 시작은 jacarand 폴더에서 'yarn start dev' 
 
+#### 사용 환경 
+#### create-react-app / React-Router / Mobx / Nodejs(express) / Socket.io(+Socket.io-client) 
+
 <h1>업데이트 내용 기록</h1>
 <h3>V 0.0.2</h3>
  19.06.12 <br />
